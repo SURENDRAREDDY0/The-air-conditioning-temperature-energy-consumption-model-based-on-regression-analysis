@@ -18,3 +18,4 @@ Model Evaluation: Evaluate the model's performance using appropriate metrics (e.
 Prediction: Use the model to predict energy consumption based on temperature and possibly other features.
 
 Model Optimization: Fine-tune the model parameters for better performance, if necessary.
+
